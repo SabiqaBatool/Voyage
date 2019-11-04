@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Voyage</string>
+    <string name="email">Email</string>
+    <string name="name">Name </string>
+    <string name="number">Phone Number </string>
+    <string name="upload_photo">Upload Photo </string>
+    <string name="create">Create My Account </string>
+    <string name="password">Password</string>
+    <string name="credit">Credit Card Number </string>
+    <string name="signIn">Sign In</string>
+    <string name="forget">Forgot Password?</string>
+    <string name="Seller">Become a seller? </string>
+    <string name="Account">Create an Account? </string>
+    <string name="CreateAccount">Create Account </string>
+    <string name="title_activity_signup">signup</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Bookings</string>
+    <string name="title_message">Message</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_buttom_navigation">buttom_navigation</string>
+    <string name="title_activity_navigation">navigation</string>
+
+
+</resources>
